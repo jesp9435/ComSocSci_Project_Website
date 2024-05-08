@@ -24,4 +24,5 @@
 ![Picture test](docs/assets/Wordclouds.png)
 
 ### The network:  
+Below are the two networks from the Taxi trip data, may 5th 2013 and 2017. 
 ![Something](docs/assets/combined_network.jpg)
