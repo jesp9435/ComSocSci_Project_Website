@@ -11,3 +11,6 @@
 
 
 ![Picture test](docs/assets/Wordclouds.png)
+
+### The network:  
+![Something](docs/assets/combined_network.jpg)
