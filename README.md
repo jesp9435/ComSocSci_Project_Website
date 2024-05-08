@@ -2,6 +2,9 @@
 
 > **The Dataset:**  
 > The dataset consisted of three main parts; Yellow Taxi Trip Records for the five boroughs of NYC, Weather Data, and Wikipedia Pages for each of the five boroughs. The Taxi data consisted of severel million rows of trip records with information about the pickup and dropoff locations as well as the tip amount. In the Weather data, we focused on the amount of precipitation and wanted to figure out which period had the most inconsistent weather. Finally, the Wikipedia pages contained information about and descriptions of the five different boroughs of NYC.
+> The different datasets can be downloaded here:
+> [**Taxi Data**](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+> 
 
 > **Analysis:**  
 > Here we...
