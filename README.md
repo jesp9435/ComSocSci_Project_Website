@@ -17,7 +17,7 @@
 
 
 
-
+![Histogram](docs/assets/Histogram.png)
 
 ![Picture test](docs/assets/Wordclouds.png)
 
