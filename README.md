@@ -5,8 +5,12 @@
 > The different datasets can be downloaded here:  
 > - [**Taxi Data**](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)  
 > - [**Weather Data**](https://www.wunderground.com/history/daily/us/ny/new-york-city/KLGA/date)  
-> - **Wikipedia**
->   - here
+> - **Wikipedia:**
+>   - [Bronx](https://en.wikipedia.org/wiki/The_Bronx)
+>   - [Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)
+>   - [Manhatten](https://en.wikipedia.org/wiki/Manhattan)
+>   - [Queens](https://en.wikipedia.org/wiki/Queens)
+>   - [Staten Island](https://en.wikipedia.org/wiki/Staten_Island)
 
 > **Analysis:**  
 > Here we...
