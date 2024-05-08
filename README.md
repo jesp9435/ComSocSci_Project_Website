@@ -10,7 +10,7 @@
 >   - [Brooklyn](https://en.wikipedia.org/wiki/Brooklyn)
 >   - [Manhatten](https://en.wikipedia.org/wiki/Manhattan)
 >   - [Queens](https://en.wikipedia.org/wiki/Queens)
->   - [Staten Island](https://en.wikipedia.org/wiki/Staten_Island)
+>   - [Staten Island](https://en.wikipedia.org/wiki/Staten_Island)  
 >   *See the Explainer notebook for all URLs
 
 > **Analysis:**  
