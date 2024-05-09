@@ -17,7 +17,7 @@ By Jesper Lund, 214639 and Frederik Bæk, s214618
 > *See the code in the Explainer notebook for all URLs
 
 > #### Analysis:  
-> Here we...
+> From working with the weather data, we found out that the two days with the most variety in precipitation was the 5th of May 2013 and 2017, where 2017 had the most rainfall and 2013 the least. The taxi data from May 5th 2013 consists of roughly 490k trip records, whilst the taxi data from May 5th 2017 consists of roughly 363k trip records. 
 
 ![Tip_amount](docs/assets/Combined.png)
 
@@ -25,8 +25,8 @@ By Jesper Lund, 214639 and Frederik Bæk, s214618
 
 ![Histogram](docs/assets/Histogram.png)
 
-![Picture test](docs/assets/Wordclouds.png)
+![Wordcloud](docs/assets/Wordclouds.png)
 
 ### The network:  
 Below are the two networks from the Taxi trip data, may 5th 2013 and 2017. 
-![Something](docs/assets/combined_network.jpg)
+![Network](docs/assets/combined_network.jpg)
