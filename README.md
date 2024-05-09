@@ -17,6 +17,7 @@
 > #### Analysis:  
 > Here we...
 
+![Tip_amount](docs/assets/Combined.png)
 
 
 ![Histogram](docs/assets/Histogram.png)
