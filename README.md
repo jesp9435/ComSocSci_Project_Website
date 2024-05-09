@@ -19,6 +19,7 @@
 
 ![Tip_amount](docs/assets/Combined.png)
 
+![Degdist](docs/assets/Degdist.png)
 
 ![Histogram](docs/assets/Histogram.png)
 
