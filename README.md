@@ -46,12 +46,12 @@ We are interested in the tips received my taxi drivers, whether or not it is aff
 > Finally the communities were analyzed to provide some insights into how external factors such as the weather affects, what communites are formed based on tipping patterns and frequencies. In the network representing 2013, a total of 10 communites were formed, in which 6 of them only contained one node. The modularity of this network was computed to be 0.12, suggesting a weak community structure. In the network representing 2017, a total of 8 communities were formed, in which 4 contain one node and 1 community contains 3 nodes. This network has a modularity of 0.16, which is roughly 30% more than the network in 2013, suggesting that the communities in 2017 have a better community structure and internal connectivity.  
 > <br>
 > In the figure below, we see the degree distribution of the two networks:
-> ![Histogram](docs/assets/Histogram.png)
+> ![Histogram](docs/assets/Histogram.png)  
 > Both distrubutions are skewed to the left, and they both appear to be multimodal since they have multiple peaks. The plot shows that the tendency for both networks is that the frequency of nodes fall with a higher degree, with the highest frequency of nodes in the interval of 0 and 50 degreees. The two networks generally seem to follow a similar distribution, but with some differences in the frequency of the degree interval.  
 > <br>
 > We also plotted the cumulative degree distribution for both network against the average degrees for both years:
 > ![Degdist](docs/assets/Degdist.png)  
-> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.
+> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.  
 > In figure below we see the cumulative average tip for each unique route:
 > ![Tip_amount](docs/assets/Combined.png)  
 > Initially the plots look very similar, but upon further inspection it is evident that there is in fact a change: in 2013, 73% of routes had tips (meaning non-zero tip values) while in 2017 that numbern had increased to 80%. (See the code section for the calculations). With more routes having non-zero tips in 2017, it seems likely that the total average of tips would be higher as well. We investigated this by calculating the total tip amount average for all the routes on the 5th of may 2013 and 2017. The result was that the average tip amount was $1.30 in 2013 and $1.89 in 2017 - a 45% increase!
