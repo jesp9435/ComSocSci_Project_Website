@@ -29,4 +29,4 @@ By Jesper Lund, 214639 and Frederik Bæk, s214618
 
 ### The network:  
 Below are the two networks from the Taxi trip data, may 5th 2013 and 2017. 
-![Network](docs/assets/combined_network.jpg)
+![Network](docs/assets/Network.jpg)
