@@ -55,11 +55,6 @@ We are interested in the tips received my taxi drivers, whether or not it is aff
 > <br>
 > In the final figure below we see the cumulative average tip for each unique route:
 > ![Tip_amount](docs/assets/Combined.png)  
-> Initially the plots look very similar, but upon further inspection it is evident that there is in fact a change: in 2013, 73% of routes had tips (meaning non-zero tip values) while in 2017 that numbern had increased to 80%. (See the code section for the calculations). With more routes having non-zero tips in 2017, it seems likely that the total average of tips would be higher as well. We investigated this by calculating the total tip amount average for all the routes on the 5th of may 2013 and 2017. The result was that the average tip amount was $1.30 in 2013 and $1.89 in 2017 - a 45% increase!
-
-
-
-
-
-
-
+> Initially the plots look very similar, but upon further inspection it is evident that there is in fact a change: in 2013, 73% of routes had tips (meaning non-zero tip values) while in 2017 that numbern had increased to 80%. (See the code section for the calculations). With more routes having non-zero tips in 2017, it seems likely that the total average of tips would be higher as well. We investigated this by calculating the total tip amount average for all the routes on the 5th of may 2013 and 2017. The result was that the average tip amount was $1.30 in 2013 and $1.89 in 2017 - a 45% increase!  
+> <Br>
+> To answer our inital research question: does rain have an effect on tip amount in NYC taxis? - it seems like the answer would be a clear "yes!", with a 45% increase in average tip amount in 2017, which was the year with the most rain. However, it is important to bear in mind, that this result is not a statistical proof that rain equals more tips. Even though there indeed seems to be a correlation between the amount of rain and the amount tipped, this correlation does not necessarily imply causation - meaning we cannot be sure that the rain is the cause of the higher average tip. There are tons of possible confounders in this study, such as the 5th of may being two different days of the week, that the rainfall was just an average of the entire day, that we only looked at a single day from two years, and possible many more hidden confounders. 
