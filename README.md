@@ -51,7 +51,7 @@ We are interested in the tips received my taxi drivers, whether or not it is aff
 > <br>
 > We also plotted the cumulative degree distribution for both network against the average degrees for both years:
 > ![Degdist](docs/assets/Degdist.png)  
-> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.
+> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.  
 > <br>
 > In the final figure below we see the cumulative average tip for each unique route:
 > ![Tip_amount](docs/assets/Combined.png)  
