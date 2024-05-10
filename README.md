@@ -1,5 +1,5 @@
 By Jesper Lund, 214639 and Frederik Bæk, s214618  
-***For additional details in both analysis and discussion, as well as the code for the project, please check out the Explainer notebook [here](/docs/assets/Explainer.ipynb)***
+---For additional details in both analysis and discussion, as well as the code for the project, please check out the Explainer notebook [here](/docs/assets/Explainer.ipynb) or [here](https://nbviewer.org/github/jesp9435/ComSocSci_Project_Website/blob/main/docs/assets/Explainer.ipynb#)---
 
 ### We all know the iconic yellow taxicab from New York City. With more than 13,000 of these yellow taxis spread across five boroughs, we wanted to dwelve deeper into the underlying patters and trends within this taxi-network. More specifically, we wondered if the amount of precipitation has an effect on the tip recieved by the cap driver, as well as investigating from a textual analysis what factors could contribute to the patters in the data.
 
