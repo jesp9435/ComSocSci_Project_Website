@@ -51,8 +51,9 @@ We are interested in the tips received my taxi drivers, whether or not it is aff
 > <br>
 > We also plotted the cumulative degree distribution for both network against the average degrees for both years:
 > ![Degdist](docs/assets/Degdist.png)  
-> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.  
-> In figure below we see the cumulative average tip for each unique route:
+> We see that both the average and the cumulative degreee distribution is higher in 2013, suggesting that the taxi locations in general had a higher "connectivity" with other taxi zones in 2013.
+> <br>
+> In the final figure below we see the cumulative average tip for each unique route:
 > ![Tip_amount](docs/assets/Combined.png)  
 > Initially the plots look very similar, but upon further inspection it is evident that there is in fact a change: in 2013, 73% of routes had tips (meaning non-zero tip values) while in 2017 that numbern had increased to 80%. (See the code section for the calculations). With more routes having non-zero tips in 2017, it seems likely that the total average of tips would be higher as well. We investigated this by calculating the total tip amount average for all the routes on the 5th of may 2013 and 2017. The result was that the average tip amount was $1.30 in 2013 and $1.89 in 2017 - a 45% increase!
 
